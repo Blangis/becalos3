@@ -1,0 +1,39 @@
+body{
+    background-color: rgba(247, 242, 239, 0.712);
+    display:flex;
+    width:100vw;
+    height: 100vh;
+    justify-content: center;
+    text-align: center;
+
+}
+
+h1{
+    padding:20px;
+    color:brown;
+    margin:0;
+    
+}
+
+form{
+    padding: 30px;
+    border: solid 1px;
+    border-radius: 10px;
+    background-color: rgb(215, 207, 226);
+    margin: 20px;
+}
+
+#imagen{
+    display:flex;
+    justify-content: center;
+    
+    /*border:solid 1px;*/
+}
+
+img{
+    width: 40vw;
+    height: 80vh;
+    border-radius: 15px;
+    margin-top: 20px;
+
+}
